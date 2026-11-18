@@ -1,0 +1,13 @@
+# Só as atividades de TPA vão para o repositório
+/revisao-matematica/
+*.zip
+/.backup-git-*/
+
+# Laravel
+vendor/
+node_modules/
+.env
+.env.backup
+.env.production
+*.sqlite
+.phpunit.result.cache
